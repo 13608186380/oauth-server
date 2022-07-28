@@ -5,14 +5,14 @@
 ### installation
 
 ```
-    composer require xtwoend/oauth-server
+    composer require lcjjonel/oauth-server
 ```
 
 
 ### Run on terminal
 
 ```
-    php bin/hyperf.php vendor:publish xtwoend/oauth-server
+    php bin/hyperf.php vendor:publish lcjjonel/oauth-server
     
     php bin/hyperf.php migrate
 
